@@ -1,5 +1,7 @@
 body {
-    font-family: 'Titillium Web', sans-serif;
+    font-family: 'Bungee Spice', cursive;
+    background-color:var(--fondo);
+    background-image:var(--degrad);
 }
 
 .navbar-brand {
