@@ -17,7 +17,7 @@ h1, h2{
 
 /*header area*/
 .top-header{
-	background: #fff !important;
+	background: rgb(226, 230, 237) !important;
 	position: fixed;
 	width: 100%;
 	z-index: 99999;
@@ -77,7 +77,7 @@ ul.nav{
   background-color: #000;
 }
 li a.active{
-	color: #42b3e5 !important;
+	color: #00e1ff !important;
 }
 .navbar-default .navbar-toggle {
   border-color: #fff;
@@ -149,7 +149,7 @@ li a.active{
 .carousel-control .glyphicon-chevron-left, .carousel-control .icon-prev {
   font-size: 18px;
   padding: 5px;
-  background: #fff;
+  background: rgb(255, 255, 255);
   border-radius: 50%;
   color: transparent;
   margin-left: 0;
@@ -168,7 +168,7 @@ li a.active{
 /*about area*/
 .about h1{
 	font-size: 80px;
-	color: #42b3e5;
+	color: #4542e5;
 	margin-top: 50px;
 }
 
@@ -265,7 +265,7 @@ li a.active{
 	background: #3a9dca;
 }
 .single-about-detail:hover .pentagon-text h1{
-	color: #3a9dca;
+	color: #9adfff;
 }
 
 
@@ -299,12 +299,12 @@ li a.active{
 .service-img {
   width: 205px;
   height: 125px;
-  background: #3a9ecb;
+  background: #67c6f2;
   position: relative;
 }
 .single-service h3{
 	margin-top: 10px;
-	color: #fff;
+	color: rgb(0, 0, 0);
 	padding-bottom: 50px;
 	position:relative;
 }
@@ -322,7 +322,7 @@ li a.active{
 
 /*contact section*/
 .contact-caption{
-	background: #3a9dca;
+	background: #2acafb;
 }
 .contact-heading h2{
 	color: #fff;
