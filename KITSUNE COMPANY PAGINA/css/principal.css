@@ -34,7 +34,7 @@
         background-attachment: fixed;
     }
     a{
-        color: #fff;
+        color: rgb(255, 255, 255);
         outline: none;
         text-decoration: none;
     }
@@ -110,14 +110,14 @@
 
         #primer h1{
             font-family: Horizon;
-            color: #fff;
+            color: rgb(255, 0, 0);
             font-size: 180px;
             
         }
 
         /*______________________sec1_______*/
         #sec1, #txtimg2{
-            background-color: #fff;
+            background-color: rgb(255, 0, 0);
             padding: 10px;
         }
         #imgimg2{
@@ -408,7 +408,7 @@
         }
         #primer h1{
             font-family: Horizon;
-            color: #fff;
+            color: rgb(174, 0, 255);
             font-size: 75px;
         }
         /*______________________sec1_______*/
@@ -446,7 +446,7 @@
     /*_____________________________FOOTER__________________________*/
 
     footer p{
-        color: #fff;
+        color: rgb(255, 0, 0);
         font-size: 15px;
         font-weight: bold;
     }
